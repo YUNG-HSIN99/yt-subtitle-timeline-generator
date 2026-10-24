@@ -1,6 +1,3 @@
-# yt-subtitle-timeline-generator
-An automated YouTube workflow that downloads audio, generates subtitles with Whisper, and creates timelines using local LLM.
-
 # YouTube 影片轉字幕與 AI 時間軸生成工具
 這個是一個利用 Python 寫的自動化工具。只要給它 YouTube 影片網址，就能自動下載音訊、用 Whisper 轉出字幕，最後用本機的 AI 模型生出影片的時間軸章節。
 
