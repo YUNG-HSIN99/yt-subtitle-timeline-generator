@@ -1,2 +1,2 @@
 # yt-subtitle-timeline-generator
-An automated YouTube workflow that downloads audio, generates subtitles with Whisper, and creates timelines using local LLM (Ollama/Llama3.2).
+An automated YouTube workflow that downloads audio, generates subtitles with Whisper, and creates timelines using local LLM.
