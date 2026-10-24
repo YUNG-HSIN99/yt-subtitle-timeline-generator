@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+output.srt
+paragraphs.txt
+timeline.txt
+audio.mp3
